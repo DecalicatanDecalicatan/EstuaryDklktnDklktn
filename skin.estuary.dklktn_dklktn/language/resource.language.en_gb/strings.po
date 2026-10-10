@@ -891,12 +891,12 @@ msgstr ""
 
 #: /xml/SkinSettings.xml
 msgctxt "#31178"
-msgid "Embuary Info movies category buttons"
+msgid "Embuary Info movies widgets"
 msgstr ""
 
 #: /xml/SkinSettings.xml
 msgctxt "#31179"
-msgid "Embuary Info TV shows category buttons"
+msgid "Embuary Info TV shows widget"
 msgstr ""
 
 #empty strings from id 31180 to 31596
